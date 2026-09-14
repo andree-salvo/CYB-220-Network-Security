@@ -10,13 +10,13 @@ Coursework from **CYB 220: Network Security** at Southern New Hampshire Universi
 
 ### 1-2 · Packet Tracer Setup Activity
 Initial setup and verification of Cisco Packet Tracer with a basic PC topology.
-📄 ![1-2 Packet Tracer Setup](https://github.com/andree-salvo/CYB-220-Network-Security/blob/0930eeba636377811bfc340599137ee35a46ac8c/CYB%20220%201-2%20Packet%20Tracer%20Setup%20Activity.pdf)
+📄 ![1-2 Packet Tracer Setup](https://github.com/andree-salvo/CYB-220-Network-Security/blob/17701821d840e8b0ad323b4e8ecb5557a398c9df/CYB%20220%201-2%20Packet%20Tracer%20Setup%20Activity.pdf)
 
 
 
 ### 2-4 · GNS3 Sandboxing Part One
 Built a three-segment network in GNS3: two Windows 10 PCs, a Windows Server, and a Cisco 3745 router. Configured static IPs and gateways on each host, brought up and addressed the router interfaces (`fa0/0`, `fa0/1`, `fa1/0`) via IOS CLI, then verified end-to-end connectivity with ping tests between every host and gateway.
-📄 `CYB_220_2-4_Activity_-_GNS3_Sandboxing_Part_One.pdf`
+📄 ![2-4 Activity: GNS3 Sandboxing Part One](https://github.com/andree-salvo/CYB-220-Network-Security/blob/17701821d840e8b0ad323b4e8ecb5557a398c9df/CYB%20220%202-4%20Activity%20-%20GNS3%20Sandboxing%20Part%20One.pdf)
 
 ### 3-2 · GNS3 Sandboxing Part Two
 Hardened a Windows VM using the Local Group Policy Editor. Mapped the full GPO path for each required policy and applied it, with screenshot evidence:
@@ -27,7 +27,7 @@ Hardened a Windows VM using the Local Group Policy Editor. Mapped the full GPO p
 - Turn off printing over HTTP
 - Turn on Internet Explorer menu bar by default
 
-📄 `CYB_220_3-2_Activity_-_GNS3_Sandboxing_Part_Two.pdf`
+📄 ![3-2 Activity: GNS3 Sandboxing Part Two](https://github.com/andree-salvo/CYB-220-Network-Security/blob/17701821d840e8b0ad323b4e8ecb5557a398c9df/CYB%20220%203-2%20Activity%20-%20GNS3%20Sandboxing%20Part%20Two.pdf)
 
 ### 4-3 · Module Four Activity – Firewalls & ACLs
 Packet Tracer lab working through layered traffic filtering:
