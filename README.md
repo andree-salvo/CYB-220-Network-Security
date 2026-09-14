@@ -10,7 +10,7 @@ Coursework from **CYB 220: Network Security** at Southern New Hampshire Universi
 
 ### 1-2 · Packet Tracer Setup Activity
 Initial setup and verification of Cisco Packet Tracer with a basic PC topology.
-📄 `CYB_220_1-2_Packet_Tracer_Setup_Activity.pdf`
+📄 ![1-2 Packet Tracer Setup](CYB_220_1-2_Packet_Tracer_Setup_Activity.pdf)
 
 ### 2-4 · GNS3 Sandboxing Part One
 Built a three-segment network in GNS3: two Windows 10 PCs, a Windows Server, and a Cisco 3745 router. Configured static IPs and gateways on each host, brought up and addressed the router interfaces (`fa0/0`, `fa0/1`, `fa1/0`) via IOS CLI, then verified end-to-end connectivity with ping tests between every host and gateway.
