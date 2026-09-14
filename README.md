@@ -10,7 +10,7 @@ Coursework from **CYB 220: Network Security** at Southern New Hampshire Universi
 
 ### 1-2 · Packet Tracer Setup Activity
 Initial setup and verification of Cisco Packet Tracer with a basic PC topology.
-📄 ![1-2 Packet Tracer Setup](<img width="629" height="273" alt="1-2 Packet Tracer Setup" src="https://github.com/user-attachments/assets/9c39ecd3-7cc4-4751-9930-3c5620563b7e" />)
+📄 ![1-2 Packet Tracer Setup](https://github.com/andree-salvo/CYB-220-Network-Security/blob/0930eeba636377811bfc340599137ee35a46ac8c/CYB%20220%201-2%20Packet%20Tracer%20Setup%20Activity.pdf)
 
 
 
